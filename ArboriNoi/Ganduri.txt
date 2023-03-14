@@ -1,0 +1,8 @@
+Am stat cam mult timp să realizez breadcrumb-ul, chiar dacă e destul de simplu,
+deoarece nu știam scopul acestuia de la început, lucru care m-a făcut să stric bara de navigare.
+Mi s-a părut destul de greu să fac fiecare pagină a site-ului cât de cât responsibilă, dar mă bucur
+că am reușit în mare parte
+Am încercat să fac site-ul cât mai estetic, iar cardurile din bootstrap mi-au fost de mare folos pentru
+a realiza asta 
+Mi-a plăcut mult să creez șablonurile pentru pagini deoarece totul e mai ușor de structurat cu bootstrap
+
